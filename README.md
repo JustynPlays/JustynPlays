@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustynPlays
 - 👀 I’m interested in Playing Games, learning to code, travel, and making videos or games.
-- 🌱 I’m currently learning HTML and Python.
+- 🌱 I’m currently learning HTML, Python(2), C++ and soon Lua+.
 - 💞️ I’m looking to collaborate on ...N/A
 - 📫 How to reach me [W.I.P]
 
