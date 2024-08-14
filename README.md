@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustynPlays
 - 👀 I’m interested in Playing Games, travel, and being lazy.
-- 🌱 I’m currently learning Java
+- 🌱 I’m
 - 💞️ I’m looking to collaborate on ...N/A
 - 📫 How to reach me [W.I.P]
 
