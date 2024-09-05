@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustynPlays
-- 👀 I’m interested in Playing Games, travel, and being lazy.
+- 👀 I’m interested in Playing Games
 - 🌱 I’m
 - 💞️ I’m looking to collaborate on ...N/A
 - 📫 How to reach me [W.I.P]
